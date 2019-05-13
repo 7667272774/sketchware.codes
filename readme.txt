@@ -1,0 +1,1 @@
+This is open source. Everyone have access to it. But don't forget to Credit us in your product ;)
